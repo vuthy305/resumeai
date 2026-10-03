@@ -1,0 +1,3 @@
+configuration,macro_precision,macro_recall,macro_f1,NAME_f1,EMAIL_f1,PHONE_f1,ADDRESS_f1,SECTIONHEADER_f1
+Text-based,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Text + Layout,65.7,67.3,66.12,98.7,73.08,47.89,44.83,0.0

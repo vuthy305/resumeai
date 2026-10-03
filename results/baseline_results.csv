@@ -1,0 +1,8 @@
+method,mode,entity,precision,recall,f1,support
+PaddleOCR + Rules,tokens,NAME,76.32,74.36,75.32,39
+PaddleOCR + Rules,tokens,EMAIL,72.73,88.89,80.0,27
+PaddleOCR + Rules,tokens,PHONE,20.65,52.78,29.69,36
+PaddleOCR + Rules,tokens,ADDRESS,6.17,20.83,9.52,24
+PaddleOCR + Rules,tokens,SECTIONHEADER,0.0,0.0,0.0,0
+PaddleOCR + Rules,tokens,MACRO,43.97,59.21,48.63,126
+PaddleOCR + Rules,tokens,MICRO,23.4,61.11,33.85,126

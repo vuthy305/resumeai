@@ -1,0 +1,422 @@
+{
+  "_note": "Canonical skill -> aliases. Matching is word-boundary based; case_sensitive avoids false hits (e.g. 'excel at').",
+  "skills": {
+    "Python": {
+      "aliases": [
+        "python3",
+        "python 3",
+        "python programming",
+        "python language"
+      ]
+    },
+    "SQL": {
+      "aliases": [
+        "structured query language",
+        "sql queries",
+        "t-sql",
+        "tsql",
+        "pl/sql"
+      ]
+    },
+    "PostgreSQL": {
+      "aliases": [
+        "postgres",
+        "postgresql database",
+        "postgre sql",
+        "psql"
+      ]
+    },
+    "MySQL": {
+      "aliases": [
+        "my sql"
+      ]
+    },
+    "SQL Server": {
+      "aliases": [
+        "ms sql server",
+        "mssql",
+        "microsoft sql server"
+      ]
+    },
+    "MongoDB": {
+      "aliases": [
+        "mongo db",
+        "mongo"
+      ]
+    },
+    "Oracle Database": {
+      "aliases": [
+        "oracle db",
+        "oracle database"
+      ]
+    },
+    "Redis": {
+      "aliases": []
+    },
+    "REST API": {
+      "aliases": [
+        "restful",
+        "restful api",
+        "restful apis",
+        "rest apis",
+        "rest api development",
+        "restful services",
+        "restful web services"
+      ]
+    },
+    "GraphQL": {
+      "aliases": []
+    },
+    "FastAPI": {
+      "aliases": [
+        "fast api"
+      ]
+    },
+    "Django": {
+      "aliases": []
+    },
+    "Flask": {
+      "aliases": []
+    },
+    "Node.js": {
+      "aliases": [
+        "nodejs",
+        "node js"
+      ]
+    },
+    "Express.js": {
+      "aliases": [
+        "expressjs",
+        "express js"
+      ]
+    },
+    "Java": {
+      "aliases": [
+        "java programming"
+      ]
+    },
+    "Spring Boot": {
+      "aliases": [
+        "springboot"
+      ]
+    },
+    "JavaScript": {
+      "aliases": [
+        "javascript es6",
+        "es6"
+      ]
+    },
+    "TypeScript": {
+      "aliases": []
+    },
+    "React": {
+      "aliases": [
+        "react.js",
+        "reactjs",
+        "react js"
+      ]
+    },
+    "Angular": {
+      "aliases": [
+        "angularjs",
+        "angular.js"
+      ]
+    },
+    "Vue.js": {
+      "aliases": [
+        "vue",
+        "vuejs"
+      ]
+    },
+    "HTML": {
+      "aliases": [
+        "html5"
+      ]
+    },
+    "CSS": {
+      "aliases": [
+        "css3"
+      ]
+    },
+    "PHP": {
+      "aliases": [
+        "laravel php"
+      ]
+    },
+    "Laravel": {
+      "aliases": []
+    },
+    "C++": {
+      "aliases": [
+        "cpp"
+      ]
+    },
+    "C#": {
+      "aliases": [
+        "c sharp",
+        "csharp"
+      ]
+    },
+    ".NET": {
+      "aliases": [
+        "dotnet",
+        "asp.net",
+        "net core",
+        ".net core"
+      ]
+    },
+    "Go": {
+      "aliases": [
+        "golang",
+        "Go language",
+        "Go programming"
+      ],
+      "match_canonical": false
+    },
+    "R": {
+      "aliases": [
+        "R programming",
+        "R language",
+        "RStudio"
+      ],
+      "match_canonical": false
+    },
+    "Docker": {
+      "aliases": [
+        "docker containers",
+        "dockerfile",
+        "docker compose",
+        "docker-compose"
+      ]
+    },
+    "Kubernetes": {
+      "aliases": [
+        "k8s"
+      ]
+    },
+    "Git": {
+      "aliases": [
+        "github",
+        "gitlab",
+        "version control"
+      ]
+    },
+    "Linux": {
+      "aliases": [
+        "ubuntu",
+        "unix",
+        "centos",
+        "red hat linux"
+      ]
+    },
+    "AWS": {
+      "aliases": [
+        "amazon web services"
+      ]
+    },
+    "Azure": {
+      "aliases": [
+        "microsoft azure"
+      ]
+    },
+    "Google Cloud": {
+      "aliases": [
+        "gcp",
+        "google cloud platform"
+      ]
+    },
+    "CI/CD": {
+      "aliases": [
+        "ci cd",
+        "continuous integration",
+        "jenkins",
+        "github actions"
+      ]
+    },
+    "Microservices": {
+      "aliases": [
+        "microservice"
+      ]
+    },
+    "Unit Testing": {
+      "aliases": [
+        "pytest",
+        "junit",
+        "unit tests"
+      ]
+    },
+    "Excel": {
+      "aliases": [
+        "ms excel",
+        "microsoft excel",
+        "advanced excel",
+        "excel spreadsheets"
+      ],
+      "case_sensitive": true
+    },
+    "Power BI": {
+      "aliases": [
+        "powerbi",
+        "microsoft power bi"
+      ]
+    },
+    "Tableau": {
+      "aliases": []
+    },
+    "Pandas": {
+      "aliases": []
+    },
+    "NumPy": {
+      "aliases": [
+        "numpy"
+      ]
+    },
+    "Statistics": {
+      "aliases": [
+        "statistical analysis",
+        "statistical modeling"
+      ]
+    },
+    "Data Visualization": {
+      "aliases": [
+        "data visualisation",
+        "dashboards",
+        "dashboard development"
+      ]
+    },
+    "Data Analysis": {
+      "aliases": [
+        "data analytics",
+        "analyzing data",
+        "data analyses"
+      ]
+    },
+    "Machine Learning": {
+      "aliases": [
+        "scikit-learn",
+        "sklearn"
+      ]
+    },
+    "ETL": {
+      "aliases": [
+        "data pipelines",
+        "etl pipelines"
+      ]
+    },
+    "Looker": {
+      "aliases": []
+    },
+    "Credit Analysis": {
+      "aliases": [
+        "credit analyses",
+        "credit assessment",
+        "credit evaluation",
+        "credit appraisal",
+        "loan analysis",
+        "credit underwriting"
+      ]
+    },
+    "Financial Analysis": {
+      "aliases": [
+        "financial statement analysis",
+        "financial analyses",
+        "analysis of financial statements",
+        "financial modeling",
+        "financial modelling"
+      ]
+    },
+    "Risk Assessment": {
+      "aliases": [
+        "risk analysis",
+        "risk management",
+        "credit risk",
+        "risk evaluation"
+      ]
+    },
+    "Banking": {
+      "aliases": [
+        "retail banking",
+        "commercial banking",
+        "banking operations",
+        "bank operations"
+      ]
+    },
+    "Loan Processing": {
+      "aliases": [
+        "loan origination",
+        "loan disbursement",
+        "loan collection"
+      ]
+    },
+    "Accounting": {
+      "aliases": [
+        "bookkeeping",
+        "financial accounting"
+      ]
+    },
+    "Customer Service": {
+      "aliases": [
+        "customer support",
+        "client service",
+        "customer relationship"
+      ]
+    },
+    "KYC/AML": {
+      "aliases": [
+        "kyc",
+        "aml",
+        "anti-money laundering",
+        "know your customer"
+      ]
+    },
+    "IT Support": {
+      "aliases": [
+        "technical support",
+        "helpdesk",
+        "help desk",
+        "desktop support"
+      ]
+    },
+    "Networking": {
+      "aliases": [
+        "tcp/ip",
+        "lan/wan",
+        "network administration",
+        "computer networks"
+      ]
+    },
+    "Windows Server": {
+      "aliases": []
+    },
+    "Troubleshooting": {
+      "aliases": []
+    },
+    "Communication": {
+      "aliases": [
+        "communication skills"
+      ]
+    },
+    "Teamwork": {
+      "aliases": [
+        "team work",
+        "team player"
+      ]
+    },
+    "Project Management": {
+      "aliases": []
+    },
+    "Agile/Scrum": {
+      "aliases": [
+        "agile",
+        "scrum",
+        "agile methodology"
+      ]
+    },
+    "Jira": {
+      "aliases": []
+    },
+    "Active Directory": {
+      "aliases": []
+    }
+  }
+}

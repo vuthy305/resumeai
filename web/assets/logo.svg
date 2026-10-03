@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Tonle Bank">
+  <circle cx="24" cy="24" r="23" fill="#12324A"/>
+  <path d="M8 19c4-4 8-4 12 0s8 4 12 0 8-4 8-4" fill="none" stroke="#7FD1C7" stroke-width="3" stroke-linecap="round"/>
+  <path d="M8 26c4-4 8-4 12 0s8 4 12 0 8-4 8-4" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M8 33c4-4 8-4 12 0s8 4 12 0 8-4 8-4" fill="none" stroke="#7FD1C7" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+</svg>

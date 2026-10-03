@@ -1,0 +1,8 @@
+method,mode,entity,precision,recall,f1,support
+PaddleOCR + LayoutLMv3,tokens,NAME,100.0,97.44,98.7,39
+PaddleOCR + LayoutLMv3,tokens,EMAIL,76.0,70.37,73.08,27
+PaddleOCR + LayoutLMv3,tokens,PHONE,48.57,47.22,47.89,36
+PaddleOCR + LayoutLMv3,tokens,ADDRESS,38.24,54.17,44.83,24
+PaddleOCR + LayoutLMv3,tokens,SECTIONHEADER,0.0,0.0,0.0,0
+PaddleOCR + LayoutLMv3,tokens,MACRO,65.7,67.3,66.12,126
+PaddleOCR + LayoutLMv3,tokens,MICRO,65.91,69.05,67.44,126

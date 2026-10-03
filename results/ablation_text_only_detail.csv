@@ -1,0 +1,8 @@
+configuration,entity,precision,recall,f1,support
+Text-based,NAME,0.0,0.0,0.0,39
+Text-based,EMAIL,0.0,0.0,0.0,27
+Text-based,PHONE,0.0,0.0,0.0,36
+Text-based,ADDRESS,0.0,0.0,0.0,24
+Text-based,SECTIONHEADER,0.0,0.0,0.0,0
+Text-based,MACRO,0.0,0.0,0.0,126
+Text-based,MICRO,0.0,0.0,0.0,126

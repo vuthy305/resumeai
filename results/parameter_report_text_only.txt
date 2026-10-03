@@ -1,0 +1,20 @@
+ResumeAI LayoutLMv3 Model
+==========================
+
+Model:
+LayoutLMv3-base (token classification)
+
+Total Parameters:
+125,933,717
+
+Trainable Parameters:
+125,933,717
+
+Non-Trainable Parameters:
+0
+
+Requirement:
+Trainable Parameters > 10,000,000
+
+Status:
+PASS

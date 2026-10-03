@@ -1,0 +1,27 @@
+{
+  "images_valid": 299,
+  "images_invalid": 0,
+  "boxes_valid": 84820,
+  "boxes_fixed": 0,
+  "boxes_invalid": 0,
+  "docs_dropped": 4,
+  "empty_tokens_removed": 0,
+  "box_format_detected": {
+    "normalized": 295
+  },
+  "train": 235,
+  "test": 60,
+  "label_counts": {
+    "B-NAME": 206,
+    "B-EMAIL": 149,
+    "B-PHONE": 175,
+    "O": 83072,
+    "I-NAME": 317,
+    "B-ADDRESS": 110,
+    "I-ADDRESS": 646,
+    "I-PHONE": 120,
+    "I-EMAIL": 25
+  },
+  "duplicates_in_train": 4,
+  "train_test_overlap": 0
+}

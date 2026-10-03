@@ -1,0 +1,5 @@
+dataset,n_train,n_test,method,type,spearman,auc_good,auc_fit,macro_f1,ndcg@5,ndcg_jobs
+cnamuangtoun/resume-job-description-fit,6241,1759,TF-IDF cosine,baseline (unsupervised),15.96,58.31,58.83,37.11,62.15,61
+cnamuangtoun/resume-job-description-fit,6241,1759,TF-IDF + LogReg,baseline (supervised),30.89,68.97,65.56,45.84,62.87,61
+cnamuangtoun/resume-job-description-fit,6241,1759,AI Match Score (ours),ours (explainable),7.32,52.76,54.58,36.89,50.6,61
+cnamuangtoun/resume-job-description-fit,6241,1759,Hybrid (alpha=0.3),experiment,16.63,58.29,59.4,38.59,64.09,61

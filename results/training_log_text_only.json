@@ -1,0 +1,37 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.5938,
+    "val_macro_f1": 0.0,
+    "seconds": 62.7,
+    "gpu": "GPU mem 1463 MB (peak 2671 MB)"
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.0949,
+    "val_macro_f1": 0.0,
+    "seconds": 69.8,
+    "gpu": "GPU mem 1463 MB (peak 2671 MB)"
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.0585,
+    "val_macro_f1": 0.0,
+    "seconds": 73.7,
+    "gpu": "GPU mem 1463 MB (peak 2671 MB)"
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.0466,
+    "val_macro_f1": 0.0,
+    "seconds": 72.7,
+    "gpu": "GPU mem 1463 MB (peak 2671 MB)"
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.0416,
+    "val_macro_f1": 0.0,
+    "seconds": 73.1,
+    "gpu": "GPU mem 1463 MB (peak 2671 MB)"
+  }
+]

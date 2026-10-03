@@ -1,0 +1,51 @@
+# ResumeAI - tested target: Windows 10/11, Python 3.10 or 3.11, NVIDIA RTX 3050 Laptop (4 GB VRAM)
+#
+# STEP 1 (special install) - PyTorch with CUDA is NOT installed from this file. Install it first:
+#   pip install torch==2.3.1 torchvision==0.18.1 --index-url https://download.pytorch.org/whl/cu121
+#   (CPU only: pip install torch==2.3.1 torchvision==0.18.1 --index-url https://download.pytorch.org/whl/cpu)
+#
+# STEP 2:
+#   pip install -r requirements.txt
+#
+# PaddleOCR note: paddlepaddle (CPU build) is used on purpose. OCR runs on the CPU so the whole
+# 4 GB of VRAM stays available for LayoutLMv3. PaddleOCR 2.x requires numpy < 2.
+
+# --- deep learning / NLP ---
+transformers==4.46.3
+datasets==2.21.0
+seqeval==1.2.2
+
+# --- OCR ---
+paddlepaddle==2.6.2
+paddleocr==2.8.1
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+
+# --- documents / images ---
+pymupdf==1.24.10
+python-docx==1.1.2
+pillow==10.4.0
+
+# --- backend ---
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.12
+sqlalchemy==2.0.35
+pydantic==2.9.2
+
+# --- frontend: plain HTML/JS in web/, served by FastAPI (no extra packages) ---
+requests==2.32.3
+
+# --- matching evaluation (TF-IDF baselines) ---
+scikit-learn==1.5.2
+# optional deep-learning baseline for scripts/evaluate_matching.py --embeddings
+# pip install sentence-transformers==3.0.1
+
+# --- analysis / reporting ---
+pandas==2.2.3
+matplotlib==3.9.2
+jupyter==1.1.1
+
+# --- tests ---
+pytest==8.3.3
+httpx==0.27.2
